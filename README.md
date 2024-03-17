@@ -10,5 +10,5 @@ https://github.com/EstiBamberger/PackmanGame-JavaScript.git</li>
 <li>Run the game and start playing</li>
 <li>Finally, save your details.</li>
 </ul>
-<p>You can also log in and watch high scores</p>
+<p>At each stage you can also watch high scores</p>
 
